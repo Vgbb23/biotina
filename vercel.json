@@ -1,7 +1,7 @@
 {
-  "installCommand": "npm install && npm install --prefix envy-skin-clone",
+  "installCommand": "npm install && npm install --prefix biotina",
   "buildCommand": "npm run build",
-  "outputDirectory": "envy-skin-clone/dist",
+  "outputDirectory": "biotina/dist",
   "functions": {
     "api/health.ts": {
       "maxDuration": 10
